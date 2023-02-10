@@ -1,1 +1,1 @@
-import {*} with "./dialogue.jac";
+import {*} with "dialogue.jac";
